@@ -1,3 +1,19 @@
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.5;
+            background-color: #FFF;
+            font-size: 16px;
+            color: #2a2a2a;
+        }
+
+        marquee {
+            box-shadow: 0 1px 3px rgba(0, 0, 0, .1);
+            border: 1px solid rgba(0, 0, 0, .15);
+            background-color: #ffffff;
+            padding: 10px;
+        }
+    </style>
 <p> I like cats and cool stuff</p> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7c553a37-8b32-4e8d-9887-5c90db01fab6/dbbf082-1bda21ca-ef3f-4630-9552-8c7f73f458ab.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjNTUzYTM3LThiMzItNGU4ZC05ODg3LTVjOTBkYjAxZmFiNlwvZGJiZjA4Mi0xYmRhMjFjYS1lZjNmLTQ2MzAtOTU1Mi04YzdmNzNmNDU4YWIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kvyTZafSrVj588HI0odF2WGB8T7rpkrNHqGgpomLBR0"></img>
 <marquee width="60%" direction="down" height="100px">Hello, world!</marquee>
 <h1 align="center">
